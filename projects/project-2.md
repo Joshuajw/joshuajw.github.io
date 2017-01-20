@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/manoaseal_transparent.png
-title: Focus Status List Search Funciton
+title: Focus Status List Search Function
 permalink: projects/focus-status-list-search-function
 date: 2016
 labels:
