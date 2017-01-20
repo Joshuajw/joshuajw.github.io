@@ -1,24 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/manoaseal_transparent.png
+title: Focus Status List Search Funciton
+permalink: projects/focus-status-list-search-function
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - HTML
+  - Database
+summary: A web application designed to help professors at UH Manoa lookup their class to see whether or not it was awarded a Focus credit.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+I implemented this search function for the GenEd office at UH Manoa during my time as their student assistant. Before I worked for the GenEd the office they had another functioning search application, unfortunately, it stopped working before I became apart of their office. Once I joined the GenEd office as their studet assistant I heard of the hassles professors had to go through to check if their class was awarded a focus credit. Having previous experience working on websites, I proposed to create a new search funtion for them even though it wasn't apart of my student assistant duties. Previously, professors would have to download an excel spreadsheet and manually look for their class. The new search function I implemented for the GenEd office allows professors to use a search bar, in which they can type their name or class and have it pop up allowing for an easy search.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The webpage with the seach function can be found here, http://www.hawaii.edu/gened/FocusStatusList.htm 
