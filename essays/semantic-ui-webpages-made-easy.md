@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/semantic-ui.jpg">
+  <img class="ui image" src="../images/semantic-ui.jpeg">
 </div>
 
 As far as UI Frameworks go, Semantics UI was my first. Building a webpage can be very time consuming; getting the perfect amount of padding, correct alignment,
