@@ -17,7 +17,7 @@ As far as UI Frameworks go, Semantics UI was my first. Building a webpage can be
 and achieving aesthetic flair can prove to be tedious. I have spent many hours going between the html and css files all to get the page to look the way I want it to. 
 However, with Semantic UI most of my troubles can be taken care of in the html file. 
 
-<div class="ui large rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/css-is-awesome.png">
 </div>
 
