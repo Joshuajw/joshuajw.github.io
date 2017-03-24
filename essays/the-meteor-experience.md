@@ -8,8 +8,8 @@ labels:
   - Meteor
 ---
 
-<div class="ui large centered rounded images">
-  <img class="ui image" src="../images/Meteor-Development-Group-Logo.jpg">
+<div class="ui large rounded images">
+  <img class="ui centered image" src="../images/Meteor-Development-Group-Logo.jpg">
 </div>
 
 ##Meteor, as mysterious as the ones that fall from the sky
