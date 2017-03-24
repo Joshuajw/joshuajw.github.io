@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-<div class="ui small rounded images">
+<div class="ui large centered rounded images">
   <img class="ui image" src="../images/Meteor-Development-Group-Logo.jpg">
 </div>
 
