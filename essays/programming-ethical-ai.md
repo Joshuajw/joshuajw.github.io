@@ -7,7 +7,7 @@ labels:
   - Ethics
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/ethical-ai.png">
 </div>
 
@@ -21,7 +21,7 @@ Take a scenario where we have a runaway autonomous car, this car only has two ch
 
 #### "Where do we draw the line?"
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/ai-driver.jpg">
 </div>
 
