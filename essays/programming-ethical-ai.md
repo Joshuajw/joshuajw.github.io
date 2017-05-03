@@ -7,7 +7,7 @@ labels:
   - Ethics
 ---
 
-<div class="ui large rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/ethical-ai.png">
 </div>
 
@@ -23,7 +23,7 @@ Take a scenario where we have a runaway autonomous car, this car only has two ch
 
 Now, when we look at autonomous cars, we also have to look at those who are programming them. When it comes to the programming, should software engineers have a guideline or policy to follow? Of course, I think some sort of policy should be created for these types of situations. I believe our best bet for an ethical solution should be the scenario where there are the least amount of casualties. However, this brings up another question, who do we get to create such policies? I feel this matter can't be discussed in a closed room. The people who drive these cars have as much a right to express how they feel as do those who aren't driving them. This matter should be discussed in communities then be brought up to the government level, a bottom-up approach. 
 
-<div class="ui large rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/ai-driver.jpg">
 </div>
 
