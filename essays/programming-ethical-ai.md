@@ -21,10 +21,10 @@ Take a scenario where we have a runaway autonomous car, this car only has two ch
 
 #### "Where do we draw the line?"
 
-Now, when we look at autonomous cars, we also have to look at those who are programming them. When it comes to the programming, should software engineers have a guideline or policy to follow? Of course, I think some sort of policy should be created for these types of situations. I believe our best bet for an ethical solution should be the scenario where there are the least amount of casualties. However, this brings up another question, who do we get to create such policies? I feel this matter can't be discussed in a closed room. The people who drive these cars have as much a right to express how they feel as do those who aren't driving them. This matter should be discussed in communities then be brought up to the government level, a bottom-up approach. 
-
 <div class="ui small rounded images">
   <img class="ui image" src="../images/ai-driver.jpg">
 </div>
+
+Now, when we look at autonomous cars, we also have to look at those who are programming them. When it comes to the programming, should software engineers have a guideline or policy to follow? Of course, I think some sort of policy should be created for these types of situations. I believe our best bet for an ethical solution should be the scenario where there are the least amount of casualties. However, this brings up another question, who do we get to create such policies? I feel this matter can't be discussed in a closed room. The people who drive these cars have as much a right to express how they feel as do those who aren't driving them. This matter should be discussed in communities then be brought up to the government level, a bottom-up approach. 
 
 In conclusion, we are a long way from achieving any type of AI that would be able to make decisions the way a human could. Things such as autonomous cars could be programmed to have a sort of, "False morality" that can mimic a sense of morality, but there's little chance of it ever being as good as a humans.
