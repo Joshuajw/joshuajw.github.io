@@ -19,22 +19,22 @@ Developed in a team for ICS314 at UH Manoa, this project greatly helped me impro
 
 Through this project I learned how to deploy apps on Galaxy using meteor. I also strengthened my understanding of editing and committing files through GitHub and the Git Shell. I also learned how to connect the app to a MongoDB server which was the backbone of our app. My main contribution to the app was getting the personal page running and storing information in the database.
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/M3-logged-in.png">
 </div>
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/M3-Calendar.png">
 </div>
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/M3-Add-Event.png">
 </div>
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/M3-Personal.png">
 </div>
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/M3-List-Personal.png">
 </div>
