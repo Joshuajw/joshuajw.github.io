@@ -50,6 +50,7 @@
       "level": "",
       "keywords": [
         "C",
+        "C#",
         "Java",
         "Javascript"
       ]
@@ -79,13 +80,25 @@
     {
       "company": "UH Manoa General Education Office",
       "position": "Student Assistant",
-      "website": "",
+      "website": "https://www.hawaii.edu/gened/",
       "startDate": "2016-06-09",
       "endDate": "2017-12-15",
       "summary": "File papers, answer phone calls, log data into databases",
       "highlights": [
         "Created a search function for their webpage",
-        "Tidied up their webpage for aesthetic purposes"
+        "Reorganization of webpage for aesthetic purposes"
+      ]
+    },
+    {
+      "company": "Hawaii Auto Detail",
+      "position": "Customer Service Specialist",
+      "website": "https://hawaiiautodetail.com/?gclid=EAIaIQobChMI0MOPo4rx3QIVitlkCh0amQDmEAAYASAAEgIf5fD_BwE",
+      "startDate": "2018-01-20",
+      "endDate": "Present",
+      "summary": "Previous Position: Detailer - Cleaned, Buffed, and ceramic coated vehicles; Current Position: Customer Service Specialist - Answer phone calls, Management of customer bookings and schedules, Co-manage and direct involvement with customer resolution, Manage and monitor multiple company platforms such as Facebook, Email, Live Chat, and Yelp, Direct coordination with owners, supervisors, and managers in a team oriented environment, Creation of new systems for management, Oversee fulfillment of online orders, Co-management of bookings at two company locations",
+      "highlights": [
+        "Quickly promoted to Customer Service Specialist from Detailer soon after starting",
+        "Entrusted with management of booking and scheduling in multiple company locations"
       ]
     }
   ],
@@ -94,9 +107,29 @@
       "organization": "PACFLT",
       "website": "http://www.public.navy.mil/surfor/Pages/RIMPAC-2016.aspx#.WJfNu_krKUk",
       "position": "Disaster Casualty",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Acted as a disaster casualty for emergency personnel training purposes",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Acted as a disaster casualty for emergency personnel training purposes during RIMPAC",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Pearl City Hongwanji",
+      "website": "http://www.pearlcityhongwanji.com/",
+      "position": "Volunteer Worker",
+      "startDate": "2013",
+      "endDate": "2017",
+      "summary": "Volunteer work as a concession stand cashier and runner for food and drinks",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Pearl City Foundation",
+      "website": "http://www.pearlcityfoundation.org/intersession.html",
+      "position": "Junior Leader",
+      "startDate": "2006",
+      "endDate": "2006",
+      "summary": "Worked with Summer Fun leaders with preparation and coordination for events and other miscellaneous jobs",
       "highlights": [
       ]
     }
