@@ -104,6 +104,18 @@
   ],
   "volunteer": [
     {
+      "organization": "AI37 Studios",
+      "website": "https://ai37studios.wixsite.com/ai37",
+      "position": "ICS Team Lead",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Oversaw and managed development of a game as a class project at UH Manoa",
+      "highlights": [
+        "ICS Team Lead",
+        "Coordinated with ACM (Academy for Creative Media) major counterparts to develop a game"
+      ]
+    },
+    {
       "organization": "PACFLT",
       "website": "http://www.public.navy.mil/surfor/Pages/RIMPAC-2016.aspx#.WJfNu_krKUk",
       "position": "Disaster Casualty",
@@ -111,6 +123,7 @@
       "endDate": "2016",
       "summary": "Acted as a disaster casualty for emergency personnel training purposes during RIMPAC",
       "highlights": [
+        ""
       ]
     },
     {
